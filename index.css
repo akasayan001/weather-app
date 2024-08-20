@@ -1,0 +1,30 @@
+body
+{
+    background: linear-gradient(to right, #000066 0%, #000099 100%);
+    color: rgb(0, 237, 123);
+   
+    
+}
+.app{
+    text-align: center;
+    color: red;
+    margin-top: 13%;
+    border: #000066;
+    
+}
+.appp{
+    margin-left: 35%;
+    margin-top: auto;
+    font-size: 20px;
+    border: solid black ;
+    border-radius: 5px;
+    padding: 5%;
+    margin-bottom: 5%;
+    
+   
+}
+.appp .box{
+    margin-left: 85%;
+    gap: 8px;
+    margin-top: 10%;
+}
