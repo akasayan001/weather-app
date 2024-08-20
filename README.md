@@ -1,2 +1,2 @@
-# weather-app
-weather app using js
+# simple weather-app
+simple weather app using js
